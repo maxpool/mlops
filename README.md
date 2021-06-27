@@ -1,5 +1,7 @@
 # Let's write on MLOps 🤖
 
+Launching -&gt; [mlops.design](http://mlops.design/)
+
 I guess we all know about the book "Data science on AWS". The book is a great collection on how to leverage Sagemaker on AWS. What if there existed a book about MLOps on different cloud and not just limited to Sagemaker? 
 
 This book is meant to be a collaborative effort in this direction. The idea started as a [discussion ](https://twitter.com/nlpguy_/status/1405065105482522624)on how to deploy models but without Sagemaker. Although I am now convinced that a better way is to discuss all patterns and let the user decide.
