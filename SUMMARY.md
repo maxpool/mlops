@@ -4,5 +4,5 @@
 
 ## AWS
 
-* [Test page](aws/test-page.md)
+* [Come share your first post](aws/test-page.md)
 

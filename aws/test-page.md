@@ -1,4 +1,4 @@
-# Test page
+# Come share your first post
 
-Test content - 1
+Your practical insights
 
