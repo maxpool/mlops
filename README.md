@@ -8,5 +8,21 @@ This book is meant to be a collaborative effort in this direction. The idea star
 
 With this, I want to invite you to write and share your learnings. You can reach out to me on [Twitter ](https://twitter.com/nlpguy_)or [LinkedIn](https://www.linkedin.com/in/bhavsarpratik/). The proposal should consist of - Title, what, why and table of content. You can create an issue in the [repo ](https://github.com/maxpool/mlops/issues)itself for submitting the proposal. If you have already written on this, we can also crosspost it with reference to the original 😄
 
+Topics we want to cover:
+
+* Data processing
+* Model training 
+* Model evaluation
+* Model serving 
+  * Server
+  * Batch
+  * Serverless
+* Online experimentation
+* Model monitoring 
+* ML pipelines 
+* Model registry 
+* Dataset and feature repository
+* Frameworks for ML
+
 We discuss a lot of NLP & MLOps on [Maxpool](http://maxpool.club/). Come[ join.maxpool.club](http://join.maxpool.club/) 👋🏼
 
